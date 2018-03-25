@@ -1,0 +1,75 @@
+{
+  "short_name": "Dr.Hari",
+  "name": "Dr.Hari",
+  "icons": [
+    {
+      "src":"images/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/ios-appicon-1024-1024.png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "images/ios-appicon-180-180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "images/ios-appicon-152-152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "images/ios-appicon-120-120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "images/ios-appicon-76-76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "images/ios-launchimage-750-1334.png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "images/ios-launchimage-1334-750.png",
+      "sizes": "1334x750"
+    },
+    {
+      "src": "images/ios-launchimage-1242-2208.png",
+      "sizes": "1242x2208"
+    },
+    {
+      "src": "images/ios-launchimage-2208-1242.png",
+      "sizes": "2208x1242"
+    },
+    {
+      "src": "images/ios-launchimage-640-960.png",
+      "sizes": "640x960"
+    },
+    {
+      "src": "images/ios-launchimage-640-1136.png",
+      "sizes": "640x1136"
+    },
+    {
+      "src": "images/ios-launchimage-1536-2048.png",
+      "sizes": "1536x2048"
+    },
+    {
+      "src": "images/ios-launchimage-2048-1536.png",
+      "sizes": "2048x1536"
+    },
+    {
+      "src": "images/ios-launchimage-768-1024.png",
+      "sizes": "768x1024"
+    },
+    {
+      "src": "images/ios-launchimage-1024-768.png",
+      "sizes": "1024x768"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#000000",
+  "theme_color": "#3dbe8b",
+  "display": "fullscreen"
+}
