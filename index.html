@@ -1,7 +1,29 @@
-<html>
-<head>
-</head>
+<!DOCTYPE html public "display of affection from creativejs">
+  <head>
+    <meta charset="uft-8" />
+    <meta name="theme-color" content="#536878" />
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Dr.Hari">
+  <link rel="apple-touch-icon" href="images/ios-appicon-152-152.png">
+    
+    <title>Dr.Hari</title>
+   <!-- <link href="css/fireworks.css" rel="stylesheet">-->
+    <style type="text/css"> html{ margin: 0; height: 100%; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; } </style> 
+    <link rel="manifest" href="manifest.json">
+  </head>
 <body>
-<h1> Dr. Hari appointments booking </h1>
+  <h3>Dr. Hari M.B.B.S</h3>
+   <script>
+    if ('serviceWorker' in navigator) {
+      console.log("Will service worker register?");
+      navigator.serviceWorker.register('service-worker.js').then(function(reg){
+        console.log("Yes it did.");
+      }).catch(function(err) {
+        console.log("No it didn't. This happened: ", err)
+      });
+    }
+  </script>
 </body>
 </html>
